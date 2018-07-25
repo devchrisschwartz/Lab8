@@ -1,0 +1,7 @@
+D:\Programming\Grand Circus Bootcamp\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\Programming\Grand Circus Bootcamp\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Programming\Grand Circus Bootcamp\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Programming\Grand Circus Bootcamp\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\Programming\Grand Circus Bootcamp\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Programming\Grand Circus Bootcamp\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\Programming\Grand Circus Bootcamp\Lab8\Lab8\obj\Debug\Lab8.pdb
